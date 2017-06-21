@@ -9,3 +9,4 @@ It was tested with environment described below:
 - Theano 0.9.0
 - Strawberry 5.12.3.0 
 
+Additional info is in wiki
